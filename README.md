@@ -13,7 +13,7 @@ It injects a dark theme layer after CNCjs loads, then applies runtime fixes for 
 
 ## Install (one command)
 
-'''curl -sSL https://raw.githubusercontent.com/norgan/CNCjs_DarkMode/main/cncjs-darkmode-patch.sh | sudo bash
+"curl -sSL https://raw.githubusercontent.com/norgan/CNCjs_DarkMode/main/cncjs-darkmode-patch.sh | sudo bash"
 
 Tested on CNCjs 1.11.0 running on Debian 13/Raspberry Pi. Workspace and settings.
 
