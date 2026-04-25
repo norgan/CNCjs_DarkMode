@@ -7,6 +7,13 @@ This patch modifies:
 /usr/lib/node_modules/cncjs/dist/cncjs/app/index.hbs
 
 It injects a dark theme layer after CNCjs loads, then applies runtime fixes for React-rendered inline styles, xterm console rendering, settings pages, and visualizer workflow controls.
+# CNCjs Dark Mode Patch
+
+---
+
+## Install (one command)
+
+'''curl -sSL https://raw.githubusercontent.com/norgan/CNCjs_DarkMode/main/cncjs-darkmode-patch.sh | sudo bash
 
 Tested on CNCjs 1.11.0 running on Debian 13/Raspberry Pi. Workspace and settings.
 
