@@ -17,3 +17,12 @@ Console:
 <img width="440" height="427" alt="image" src="https://github.com/user-attachments/assets/cec33a29-3e0c-419c-bb11-624e4eabc53b" />
 Settings:
 <img width="1903" height="852" alt="image" src="https://github.com/user-attachments/assets/17242a2f-fd0f-4c4c-ac7d-98c1fe299066" />
+
+## Warning
+
+This is a runtime patch, not an official CNCjs theme system.
+
+It may need to be re-applied after CNCjs updates or reinstalls.
+A backup of index.hbs is created automatically under:
+
+/opt/cncjs-darkmode-backup/
