@@ -11,6 +11,8 @@ It injects a dark theme layer after CNCjs loads, then applies runtime fixes for 
 Tested on CNCjs 1.11.0 running on Debian 13/Raspberry Pi. Workspace and settings.
 
 Not Tested: User account pages, help, any other ancillary pages. 
+
+# Screenshots:
 Main workspace:
 <img width="1881" height="997" alt="image" src="https://github.com/user-attachments/assets/c5006252-b83d-4084-876c-edda3d2ec94a" />
 Console:
